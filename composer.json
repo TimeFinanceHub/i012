@@ -1,0 +1,21 @@
+{
+    "name": "syntaxsanctuary/ss-tfh",
+    "description": "librería.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramiro",
+            "email": "mostlyphpsoftware@email.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "syntaxsanctuary\\ss-tfh\\": "src/"
+        }
+    }
+}
