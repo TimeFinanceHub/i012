@@ -1,7 +1,7 @@
 {
     "name": "syntaxsanctuary/ss-tfh",
-    "description": "A modern, lightweight PHP library.",
-    "type": "library",
+    "description": "A modern, lightweight static project.",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
